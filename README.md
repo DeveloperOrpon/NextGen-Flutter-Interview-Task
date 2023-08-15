@@ -1,6 +1,7 @@
-# ui_design_and_animation
+# Preview In Real Device
+# Snapshot
+![Screenshot_2023-08-15-17-30-09-588_com example next_gen_interview_task](https://github.com/DeveloperOrpon/NextGen-Flutter-Interview-Task/assets/64760977/7c54462f-8ef2-45f0-8704-d9042fc42b9f)
+# video
+Uploading Screenrecorder-2023-08-15-17-41-14-536.mp4…
 
-A new Flutter project.
 
-
-[https://github.com/DeveloperOrpon/Flutter-Animation--Animation-do-/assets/64760977/51366d84-9c74-42c8-a3fe-f1583bebf5e5](https://github.com/DeveloperOrpon/NextGen-Flutter-Interview-Task/blob/master/ScreenShot/Screenrecorder-2023-08-15-17-41-14-536.mp4)https://github.com/DeveloperOrpon/NextGen-Flutter-Interview-Task/blob/master/ScreenShot/Screenrecorder-2023-08-15-17-41-14-536.mp4](https://github.com/DeveloperOrpon/NextGen-Flutter-Interview-Task/blob/master/ScreenShot/Screenrecorder-2023-08-15-17-41-14-536.mp4)https://github.com/DeveloperOrpon/NextGen-Flutter-Interview-Task/blob/master/ScreenShot/Screenrecorder-2023-08-15-17-41-14-536.mp4
